@@ -1,6 +1,11 @@
+body{background-image: url('img.png') ;
+background-repeat: repeat;
+background-size: cover;}
+
 h1{font-family: Georgia, 'Times New Roman', Times, serif;
 color: rgb(179, 255, 0);}
 select{color: aqua;}
 h2{color: blueviolet;}
 p{color:green}
+h4{background-color: blue;color: rgb(178, 15, 243);}
 
