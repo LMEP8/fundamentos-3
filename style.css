@@ -4,8 +4,15 @@ background-size: cover;}
 
 h1{font-family: Georgia, 'Times New Roman', Times, serif;
 color: rgb(179, 255, 0);}
-select{color: aqua;}
+select{color: aqua;
+border: 5px solid red;
+border-radius: 5px 5px;}
 h2{color: blueviolet;}
 p{color:green}
-h4{background-color: blue;color: rgb(178, 15, 243);}
+h4{background-color: blue;color: rgb(178, 15, 243);
+padding: 15px 15px;}
+input{color: rgb(238, 7, 7);
+border: 6px solid blue;
+border-radius: 5px ;
+}
 
